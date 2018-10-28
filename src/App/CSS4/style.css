@@ -1,0 +1,13 @@
+body{
+  background-color: aquamarine;
+  text-align: center;
+}
+
+
+.myCard{
+  border: 2px solid black;
+  background-color: rgba(256, 256, 256, 0.8);
+}
+
+
+/* className="myCard" */
